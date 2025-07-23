@@ -2,6 +2,7 @@ torch
 sentence_transformers
 transformers 
 langchain
+langchain_community
 fastapi
 uvicorn
 pypdf
